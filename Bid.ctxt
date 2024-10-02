@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Bid
+comment1.params=bidderName
+comment1.target=Bid(java.lang.String)
+comment2.params=bidderName\ bidAmount
+comment2.target=Bid(java.lang.String,\ double)
+comment3.params=bidAmount
+comment3.target=void\ setBidAmount(double)
+comment4.params=
+comment4.target=void\ displayBid()
+numComments=5
